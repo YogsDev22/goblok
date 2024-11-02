@@ -1,12 +1,12 @@
 {
     "serverstatus":"true",
-    "noticemode":"false",
+    "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":" Just wait few more times 🙂",
     "libs":"https://github.com/YogsDev22/goblok/releases/download/yog/libavaritia.zip",
     "notice_title":"",
     "notice_body":"",
-    "versidown":"",
-    "versi":"0"
+    "versidown":"https://github.com/YogsDev22/goblok/releases/download/yog/yogcheats.zip",
+    "versi":"1"
 }
