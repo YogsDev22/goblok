@@ -1,6 +1,6 @@
 {
-    "statuspubg":"Online",
-    "procpubg":"Safe",
-    "statuslite":"Offline",
-    "proclite":"UnSafe"
+    "statuspubg":"Offline",
+    "procpubg":"UnSafe",
+    "statuslite":"Online",
+    "proclite":"Safe"
 }
