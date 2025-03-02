@@ -1,3 +1,6 @@
 {
-    "version":"2"
+    "statuspubg":"Online",
+    "procpubg":"Safe",
+    "statuslite":"Offline",
+    "proclite":"UnSafe"
 }
