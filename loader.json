@@ -2,5 +2,7 @@
     "statuspubg":"Online",
     "procpubg":"UnSafe",
     "statuslite":"Online",
-    "proclite":"Safe"
+    "proclite":"Safe",
+    "statusff":"Offline",
+    "procff":"UnSafe"
 }
